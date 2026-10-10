@@ -77,4 +77,43 @@ The project focuses on SQL techniques relevant to data analysis, including:
 - Grouping and aggregation using `GROUP BY` and aggregate functions
 - Filtering grouped results using `HAVING`
 - Joining related tables using `JOIN`
+- Common Table Expressions (CTEs)
+- Window functions for ranking and comparing records
+- Subqueries and conditional filtering
+- String aggregation for combining tied player names
 
+Specific functions used include `COUNT()`, `SUM()`, `MAX()`, `RANK()`, `LAG()`, `LEAD()`, and `STRING_AGG()`, where applicable in the SQL script.
+
+## 📈 Key Learnings
+
+- Writing SQL queries to answer analytical questions.
+- Analyzing medal counts by team, athlete, year, season, and sport.
+- Identifying top-performing teams and athletes.
+- Using window functions to compare performance across Olympic years.
+- Applying grouping, aggregation, and ranking techniques to structured datasets.
+- Organizing SQL analysis in a GitHub repository.
+
+## 📁 Project Files
+
+- `README.md` — Project overview, objectives, and documentation.
+- `olympics-sql-analysis.sql` — SQL queries used for Olympic data analysis.
+- `athletes.csv` — Athlete information dataset.
+- `athlete_events.csv` — Olympic participation and medal dataset.
+
+## 🚀 How to Run the Project
+
+1. Clone or download this repository.
+2. Import both CSV datasets into Microsoft SQL Server.
+3. Create or verify the tables and column names used in the SQL script.
+4. Open the SQL script in SQL Server Management Studio.
+5. Execute the queries to analyze Olympic data.
+
+## 👩‍💻 Author
+
+**Sonali Patil**
+
+GitHub Profile: [patilsonali7](https://github.com/patilsonali7)
+
+## 🔗 Project Repository
+
+[Olympics Data Analysis Using SQL Server](https://github.com/patilsonali7/olympics-sql-analysis)
