@@ -32,7 +32,7 @@ The project answers the following questions:
 1. Which team has won the maximum gold medals over the years?
 2. For each team, what is the total number of silver medals, and in which year did the team win the maximum silver medals?
 3. Which player has won the maximum gold medals among players who have never won a silver or bronze medal?
-4. For each year, which player or players won the maximum number of gold medals, including ties?
+4.For each year, identify the player or players who won the maximum number of gold medals, and display the names of all tied players as a comma-separated list.
 5. In which year did India first win a gold, silver, and bronze medal, and in which sport?
 6. Which players have won gold medals in both Summer and Winter Olympics?
 7. Which players have won gold, silver, and bronze medals in a single Olympic year?
