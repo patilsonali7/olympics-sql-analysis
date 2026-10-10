@@ -68,7 +68,7 @@ The project answers the following questions:
 ## 📁 Project Files
 
 - `README.md` — Project overview and documentation.
-- SQL script — Contains the eight analytical queries.
+- olympics-sql-analysis.sql — Contains the eight analytical queries.
 - `athletes.csv` — Athlete dataset.
 - `athlete_events.csv` — Olympic events dataset.
 
